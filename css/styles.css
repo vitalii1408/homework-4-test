@@ -49,3 +49,91 @@ img {
   display: block;
   max-width: 100%;
 }
+
+
+.header {
+}
+
+.header-logo {font-family: var(--second-family);
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--navy-blue);
+}
+.span {font-family: var(--second-family);
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--navy-blue);
+}
+
+
+.header-nav {
+}
+
+.header-nav-list {
+}
+.header-nav-list-item {
+}
+.header-contacts {
+}
+.header-contacts-list {
+}
+.header-contacts-list-item {
+}
+.main {
+}
+.hero {
+}
+.hero-title {
+}
+.hero-btn {
+}
+.type= {
+}
+.features {
+}
+.visually-hidden {
+}
+.features-list {
+}
+.features-list-item {
+}
+.features-list-item-title {
+}
+.features-title {
+}
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-list-item {
+}
+.team-list-item-title {
+}
+.team-list-item-position {
+}
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-list-item {
+}
+.portfolio-list-item-title {
+}
+.portfolio-list-item-description {
+}
+.footer {
+}
+.footer-logo {
+}
+.footer-text {
+}
