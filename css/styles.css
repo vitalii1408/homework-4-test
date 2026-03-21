@@ -80,13 +80,22 @@ color: var(--iris);
 .header-nav-list {
 }
 
-.header-nav-list-link:hover {
+.header-nav-list-link:hover,
+.header-nav-list-link:focus
+ {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #404bbf;
+}
 
+.header-nav-list-item:active {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #404bbf;
 }
 
 .header-nav-list-item {
@@ -109,7 +118,15 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: var(--slate);
 }
-
+ 
+.header-contacts-list-item:hover,
+.header-contacts-list-item:focus {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #404bbf;
+}
 .main {
 }
 .hero {
@@ -133,6 +150,12 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #404bbf;
 }
 
 .visually-hidden {
