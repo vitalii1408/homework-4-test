@@ -1,0 +1,10 @@
+{
+  "better-comments.tags": [
+    { "tag": "!", "color": "#FF2D00", "bold": true },
+    { "tag": "?", "color": "#3498DB" },
+    { "tag": "*", "color": "#98C379" },
+    { "tag": "TODO", "color": "#E5C07B" },
+    { "tag": "//", "color": "#444", "strikethrough": true },
+    { "tag": "@", "color": "#FF69B4" }
+  ]
+}
